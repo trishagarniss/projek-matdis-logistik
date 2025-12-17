@@ -55,7 +55,7 @@ Sistem ini mengubah cara pandang navigasi konvensional:
     pip install pandas numpy matplotlib folium jupyter
     ```
 3.  **Jalankan Jupyter Notebook**
-    Buka file `notebooks/Final_Simulation.ipynb` (atau nama file utamamu).
+    Buka file `notebooks/run_simulation.ipynb`.
 
 ---
 
