@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
 ![Status](https://img.shields.io/badge/Status-Research-green)
 
-> **Judul Penelitian:** Optimasi Rute dan Estimasi Waktu Pengiriman Logistik Menggunakan Representasi Graf Berbobot Dinamis (*Dynamic Weighted Graph*) Berbasis Logika Predikat pada Kondisi Lalu Lintas dan Cuaca.
+> **Judul:** Optimasi Rute dan Estimasi Waktu Pengiriman Logistik Menggunakan Representasi Graf Berbobot Dinamis (*Dynamic Weighted Graph*) Berbasis Logika Predikat pada Kondisi Lalu Lintas dan Cuaca.
 
 Repository ini berisi *source code* simulasi dan dataset untuk Tugas Akhir Mata Kuliah **Matematika Diskrit**. Proyek ini bertujuan memecahkan masalah ketidakakuratan estimasi waktu pengiriman (*Last-Mile Delivery*) akibat faktor dinamis.
 
@@ -55,7 +55,7 @@ Sistem ini mengubah cara pandang navigasi konvensional:
     pip install pandas numpy matplotlib folium jupyter
     ```
 3.  **Jalankan Jupyter Notebook**
-    Buka file `notebooks/Final_Simulation.ipynb` (atau nama file utamamu).
+    Buka file `notebooks/run_simulation.ipynb`.
 
 ---
 
